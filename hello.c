@@ -1,6 +1,8 @@
-#include<stdio.h>
+#include <stdio.h>
+
 int main()
 {
-  printf("hello,github!");
-return 0;
+    printf("Hello, GitHub!\n");
+    printf("I am learning Git and GitHub!\n");
+    return 0;
 }
